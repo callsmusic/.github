@@ -1,5 +1,11 @@
-<p align="center"><a href="https://callsmusic.me" target="_blank"><img src="https://i.ibb.co/db6Vk2H/Git-Lab-5.png" width="36%"></a></p>
+<div align="center">
+  <img src="https://i.ibb.co/db6Vk2H/Git-Lab-5.png" width="36%" />
+</div>
 
-<h1 align="center"> <a href="https://callsmusic.me"> Calls Music </a> </h1>
+<br />
 
-<h2 align="center"><i>Projects for Telegram calls. </i></h2>
+**Calls Music** is a small group of Telegram enthusiasts working on open-source projects for Telegram group calls.
+We don't earn anything from doing this, nor we want to.
+All we do is for public advantages.
+
+For a list of our projects, visit our [Telegram channel](https://t.me/callsmusic).
